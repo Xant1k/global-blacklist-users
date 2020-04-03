@@ -1,1 +1,33 @@
-# glogal-blacklist
+KLASS
+Jonmey
+ExDimanya
+diim
+WatsonRus
+CasperRuud
+dabbler
+mig73
+sanatoliy
+terenty79
+Alexcooll
+Sputnikk
+maxvlas
+konster
+villa777
+shadow_member
+MERCURY127
+brduakhTMP
+m0nkrus
+FEDAZ
+VAAASKA
+goodcow
+niksad31
+Upitanniy
+grey_rat
+banaji
+bratskij
+lavabot
+AngelNet
+Rako1
+iwanes1224
+
+На всех сайтах в сети интернет, соц. сетях (vk/twitter/facebook) и мессенджере телеграм любые сообщения скрываются, а личные удаляются, либо игнор. Все альтернативные ники/клоны тотально подвергаются блоку на основе схожести манеры речи, перекрёстным ссылкам, e-mail адресам и прочим личным данным.
