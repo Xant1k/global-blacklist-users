@@ -25,6 +25,7 @@ Upitanniy
 grey_rat
 banaji
 bratskij
+VidelSamogO
 lavabot
 AngelNet
 Rako1
