@@ -3,8 +3,6 @@ Jonmey
 ExDimanya
 diim
 WatsonRus
-CasperRuud
-dabbler
 mig73
 sanatoliy
 terenty79
