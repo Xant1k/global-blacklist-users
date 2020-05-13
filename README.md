@@ -1,32 +1,33 @@
-KLASS
-Jonmey
-ExDimanya
-diim
-WatsonRus
-mig73
-sanatoliy
-terenty79
-Alexcooll
-Sputnikk
-maxvlas
-konster
-villa777
-shadow_member
-MERCURY127
-brduakhTMP
-m0nkrus
-FEDAZ
-VAAASKA
-goodcow
-niksad31
-Upitanniy
-grey_rat
-banaji
-bratskij
-VidelSamogO
-lavabot
-AngelNet
-Rako1
-iwanes1224
-
-На всех сайтах в сети интернет, соц. сетях (vk/twitter/facebook) и мессенджере телеграм любые сообщения скрываются, а личные удаляются, либо игнор. Все альтернативные ники/клоны тотально подвергаются блоку на основе схожести манеры речи, перекрёстным ссылкам, e-mail адресам и прочим личным данным.
+forum.ru-board.com##body > table.tb:has(a[href="javascript:pasteN('KLASS')"])
+forum.ru-board.com##body > table.tb:has(a[href="javascript:pasteN('Jonmey')"])
+forum.ru-board.com##body > table.tb:has(a[href="javascript:pasteN('ExDimanya')"])
+forum.ru-board.com##body > table.tb:has(a[href="javascript:pasteN('diim')"])
+forum.ru-board.com##body > table.tb:has(a[href="javascript:pasteN('WatsonRus')"])
+forum.ru-board.com##body > table.tb:has(a[href="javascript:pasteN('CasperRuud')"])
+forum.ru-board.com##body > table.tb:has(a[href="javascript:pasteN('dabbler')"])
+forum.ru-board.com##body > table.tb:has(a[href="javascript:pasteN('mig73')"])
+forum.ru-board.com##body > table.tb:has(a[href="javascript:pasteN('sanatoliy')"])
+forum.ru-board.com##body > table.tb:has(a[href="javascript:pasteN('terenty79')"])
+forum.ru-board.com##body > table.tb:has(a[href="javascript:pasteN('Alexcooll')"])
+forum.ru-board.com##body > table.tb:has(a[href="javascript:pasteN('Sputnikk')"])
+forum.ru-board.com##body > table.tb:has(a[href="javascript:pasteN('maxvlas')"])
+forum.ru-board.com##body > table.tb:has(a[href="javascript:pasteN('konster')"])
+forum.ru-board.com##body > table.tb:has(a[href="javascript:pasteN('villa777')"])
+forum.ru-board.com##body > table.tb:has(a[href="javascript:pasteN('shadow_member')"])
+forum.ru-board.com##body > table.tb:has(a[href="javascript:pasteN('MERCURY127')"])
+forum.ru-board.com##body > table.tb:has(a[href="javascript:pasteN('brduakhTMP')"])
+forum.ru-board.com##body > table.tb:has(a[href="javascript:pasteN('m0nkrus')"])
+forum.ru-board.com##body > table.tb:has(a[href="javascript:pasteN('FEDAZ')"])
+forum.ru-board.com##body > table.tb:has(a[href="javascript:pasteN('VAAASKA')"])
+forum.ru-board.com##body > table.tb:has(a[href="javascript:pasteN('goodcow')"])
+forum.ru-board.com##body > table.tb:has(a[href="javascript:pasteN('niksad31')"])
+forum.ru-board.com##body > table.tb:has(a[href="javascript:pasteN('Upitanniy')"])
+forum.ru-board.com##body > table.tb:has(a[href="javascript:pasteN('grey_rat')"])
+forum.ru-board.com##body > table.tb:has(a[href="javascript:pasteN('banaji')"])
+forum.ru-board.com##body > table.tb:has(a[href="javascript:pasteN('bratskij')"])
+forum.ru-board.com##body > table.tb:has(a[href="javascript:pasteN('lavabot')"])
+forum.ru-board.com##body > table.tb:has(a[href="javascript:pasteN('AngelNet')"])
+forum.ru-board.com##body > table.tb:has(a[href="javascript:pasteN('Rako1')"])
+forum.ru-board.com##body > table.tb:has(a[href="javascript:pasteN('iwanes1224')"])
+forum.ru-board.com##body > table.tb:has(a[href="javascript:pasteN('losotiv')"])
+forum.ru-board.com##body > table.tb:has(a[href="javascript:pasteN('VidelSamogO')"])
