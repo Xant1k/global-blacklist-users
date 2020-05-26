@@ -32,3 +32,4 @@ forum.ru-board.com##body > table.tb:has(a[href="javascript:pasteN('iwanes1224')"
 forum.ru-board.com##body > table.tb:has(a[href="javascript:pasteN('losotiv')"])
 forum.ru-board.com##body > table.tb:has(a[href="javascript:pasteN('VidelSamogO')"])
 forum.ru-board.com##body > table.tb:has(a[href="javascript:pasteN('LevT')"])
+forum.ru-board.com##body > table.tb:has(a[href="javascript:pasteN('ziken')"])
