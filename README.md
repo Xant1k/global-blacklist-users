@@ -76,4 +76,4 @@ forum.ru-board.com##body > table.tb:has(a[href="javascript:pasteN('Gosuto')"])
 forum.ru-board.com##body > table.tb:has(a[href="javascript:pasteN('OlegVVV')"])
 forum.ru-board.com##body > table.tb:has(a[href="javascript:pasteN('rdvfrb')"])
 
-Места хватит для всех=)
+Места хватит всем=)
