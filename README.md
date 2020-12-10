@@ -83,5 +83,6 @@ forum.ru-board.com##body > table.tb:has(a[href="javascript:pasteN('vadimuu4')"])
 forum.ru-board.com##body > table.tb:has(a[href="javascript:pasteN('RussianF')"])
 forum.ru-board.com##body > table.tb:has(a[href="javascript:pasteN('iPadishah')"])
 forum.ru-board.com##body > table.tb:has(a[href="javascript:pasteN('WildGoblin')"])
+forum.ru-board.com##body > table.tb:has(a[href="javascript:pasteN('MAX63ru')"])
 
 Места хватит всем=)
