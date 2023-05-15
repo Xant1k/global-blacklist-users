@@ -5,6 +5,7 @@
 forum.ru-board.com##body > table.tb:has(a[href="javascript:pasteN('KLASS')"])
 forum.ru-board.com##body > table.tb:has(a[href="javascript:pasteN('Jonmey')"])
 forum.ru-board.com##body > table.tb:has(a[href="javascript:pasteN('ExDimanya')"])
+forum.ru-board.com##body > table.tb:has(a[href="javascript:pasteN('prosecution')"])
 forum.ru-board.com##body > table.tb:has(a[href="javascript:pasteN('diim')"])
 forum.ru-board.com##body > table.tb:has(a[href="javascript:pasteN('WatsonRus')"])
 forum.ru-board.com##body > table.tb:has(a[href="javascript:pasteN('insorg')"])
