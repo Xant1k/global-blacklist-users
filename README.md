@@ -10,6 +10,7 @@ forum.ru-board.com##body > table.tb:has(a[href="javascript:pasteN('jourmager')"]
 forum.ru-board.com##body > table.tb:has(a[href="javascript:pasteN('diim')"])
 forum.ru-board.com##body > table.tb:has(a[href="javascript:pasteN('provera')"])
 forum.ru-board.com##body > table.tb:has(a[href="javascript:pasteN('alexgr')"])
+forum.ru-board.com##body > table.tb:has(a[href="javascript:pasteN('perez969')"])
 forum.ru-board.com##body > table.tb:has(a[href="javascript:pasteN('Drovosek01')"])
 forum.ru-board.com##body > table.tb:has(a[href="javascript:pasteN('WatsonRus')"])
 forum.ru-board.com##body > table.tb:has(a[href="javascript:pasteN('insorg')"])
