@@ -3,6 +3,7 @@
 Юзеры которых я игнорирую:
 
 forum.ru-board.com##body > table.tb:has(a[href="javascript:pasteN('KLASS')"])
+forum.ru-board.com##body > table.tb:has(a[href="javascript:pasteN('murzisla')"])
 forum.ru-board.com##body > table.tb:has(a[href="javascript:pasteN('Jonmey')"])
 forum.ru-board.com##body > table.tb:has(a[href="javascript:pasteN('ExDimanya')"])
 forum.ru-board.com##body > table.tb:has(a[href="javascript:pasteN('prosecution')"])
