@@ -1,5 +1,6 @@
 forum.ru-board.com##body > table.tb:has(a[href="javascript:pasteN('KLASS')"])
 forum.ru-board.com##body > table.tb:has(a[href="javascript:pasteN('murzisla')"])
+forum.ru-board.com##body > table.tb:has(a[href="javascript:pasteN('maz')"])
 forum.ru-board.com##body > table.tb:has(a[href="javascript:pasteN('Jonmey')"])
 forum.ru-board.com##body > table.tb:has(a[href="javascript:pasteN('misha74ster')"])
 forum.ru-board.com##body > table.tb:has(a[href="javascript:pasteN('AkulaBig')"])
