@@ -3,6 +3,7 @@ forum.ru-board.com##body > table.tb:has(a[href="javascript:pasteN('Samovarov')"]
 forum.ru-board.com##body > table.tb:has(a[href="javascript:pasteN('murzisla')"])
 forum.ru-board.com##body > table.tb:has(a[href="javascript:pasteN('Maz')"])
 forum.ru-board.com##body > table.tb:has(a[href="javascript:pasteN('Jonmey')"])
+forum.ru-board.com##body > table.tb:has(a[href="javascript:pasteN('jasonliull')"])
 forum.ru-board.com##body > table.tb:has(a[href="javascript:pasteN('shrmn')"])
 forum.ru-board.com##body > table.tb:has(a[href="javascript:pasteN('sakatgg')"])
 forum.ru-board.com##body > table.tb:has(a[href="javascript:pasteN('MaksimovFilimon')"])
