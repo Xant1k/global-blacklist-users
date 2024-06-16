@@ -7,6 +7,7 @@ forum.ru-board.com##body > table.tb:has(a[href="javascript:pasteN('jasonliull')"
 forum.ru-board.com##body > table.tb:has(a[href="javascript:pasteN('shrmn')"])
 forum.ru-board.com##body > table.tb:has(a[href="javascript:pasteN('frost745')"])
 forum.ru-board.com##body > table.tb:has(a[href="javascript:pasteN('sakatgg')"])
+forum.ru-board.com##body > table.tb:has(a[href="javascript:pasteN('Maxim_um')"])
 forum.ru-board.com##body > table.tb:has(a[href="javascript:pasteN('MaksimovFilimon')"])
 forum.ru-board.com##body > table.tb:has(a[href="javascript:pasteN('emx')"])
 forum.ru-board.com##body > table.tb:has(a[href="javascript:pasteN('greeple')"])
