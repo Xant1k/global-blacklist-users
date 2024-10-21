@@ -1,3 +1,4 @@
+forum.ru-board.com##body > table.tb:has(a[href="javascript:pasteN('cuneiform')"])
 forum.ru-board.com##body > table.tb:has(a[href="javascript:pasteN('KLASS')"])
 forum.ru-board.com##body > table.tb:has(a[href="javascript:pasteN('Samovarov')"])
 forum.ru-board.com##body > table.tb:has(a[href="javascript:pasteN('murzisla')"])
